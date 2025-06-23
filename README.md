@@ -12,9 +12,6 @@
   <a href="https://github.com/SenaxxZz">
     <img src="https://img.shields.io/github/followers/SenaxxZz?label=Follow&style=for-the-badge" />
   </a>
-  <a href="https://www.buymeacoffee.com/SenaxZz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy me a coffee-FDDB4F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
 </p>
 
 ---
