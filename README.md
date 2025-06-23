@@ -59,8 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SenaxxZz&show_icons=true&theme=tokyonight&locale=fr" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=SenaxxZz&theme=tokyonight&hide_border=false" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaxxZz&layout=compact&theme=tokyonight" />
 </p>
 
