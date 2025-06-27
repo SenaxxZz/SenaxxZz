@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, moi c'est SenaxZz</h1>
-<h3 align="center">Fondateur & Développeur chez Valcoria-Group • Dev chez EndoCraft-RP • Polyvalent & Passionné 🚀</h3>
+<h3 align="center">Fondateur & Développeur chez Valcoria • Dev chez EndoCraft-RP • Polyvalent & Passionné 🚀</h3>
 
 <p align="center">
   <a href="mailto:senaxzzpro@gmail.com">
@@ -19,7 +19,7 @@
 ### 🧠 À propos
 
 - 🎓 En cours de **BAC PRO CIEL**
-- 🛠️ Fondateur & Développeur chez [Valcoria-Group](https://valcoria.fr)
+- 🛠️ Fondateur & Développeur chez [Valcoria](https://valcoria.fr)
 - 💻 Développeur chez **EndoCraft-RP**
 - 💡 Autodidacte & curieux, passionné par la tech sous toutes ses formes
 - 📫 Contact : **senaxzzpro@gmail.com**
