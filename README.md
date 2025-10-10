@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, moi c'est SenaxZz</h1>
-<h3 align="center">Fondateur & Développeur chez Valcoria • Admin, RespCom & Développeur chez Syphera • Polyvalent & Passionné 🚀</h3>
+<h3 align="center">Fondateur & Resp-Développeur chez Valcoria-Studio • Fondateur & Développeur chez Syphera • Polyvalent & Passionné 🚀</h3>
 
 <p align="center">
   <a href="mailto:senaxzzpro@gmail.com">
@@ -19,8 +19,8 @@
 ### 🧠 À propos
 
 - 🎓 En cours de **BAC PRO CIEL**
-- 🛠️ Fondateur & Développeur chez [Valcoria](https://valcoria.fr)
-- 💻 Admin, développeur & RespCom chez Syphera
+- 🛠️ Fondateur & Resp-développement chez [Valcoria-Studio](https://studio.valcoria.fr)
+- 💻 Fondateur & développeur chez Syphera
 - 💡 Autodidacte & curieux, passionné par la tech sous toutes ses formes
 - 📫 Contact : **senaxzzpro@gmail.com**
 - 🗨️ Discord : `senaxzz__`
