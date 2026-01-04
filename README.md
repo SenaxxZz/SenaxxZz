@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋, moi c'est SenaxZz</h1>
-<h3 align="center">Fondateur & Resp-Développeur chez Valcoria-Studio • Fondateur & Développeur chez Syphera • Polyvalent & Passionné 🚀</h3>
+<h3 align="center">Equipe développeur & Cyber pour Valcoria • Responsable, développpeur, technicien pour FreshPerf • Polyvalent & Passionné 🚀</h3>
 
 <p align="center">
   <a href="mailto:senaxzzpro@gmail.com">
@@ -19,8 +19,8 @@
 ### 🧠 À propos
 
 - 🎓 En cours de **BAC PRO CIEL**
-- 🛠️ Fondateur & Resp-développement chez [Valcoria-Studio](https://studio.valcoria.fr)
-- 💻 Fondateur & développeur chez Syphera
+- 🛠️ Equipe développeur & Cyber pour [Valcoria](https://valcoria.fr)
+- 💻 Responsable, développpeur, technicien pour [FreshPerf](https://freshperf.fr)
 - 💡 Autodidacte & curieux, passionné par la tech sous toutes ses formes
 - 📫 Contact : **senaxzzpro@gmail.com**
 - 🗨️ Discord : `senaxzz__`
@@ -52,15 +52,6 @@
 |--------|-------------|--------------|
 | [`Atouts-Plugin`](https://github.com/SenaxxZz/Atouts-Plugin) | Plugin Minecraft Java 1.7.10 - 1.13 ajoutant des effets permanents. | `Java`, `Spigot`, `Bukkit` |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SenaxxZz&show_icons=true&theme=tokyonight&locale=fr" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaxxZz&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
